@@ -1,4 +1,4 @@
-# 使用python实现冒泡排序
+# 1.使用python实现冒泡排序
 # 实现思路：使用flag标志进行判断当前两个数字是否有序，有序就后移一个位置，否则就交换两个数字的位置
 import copy
 def bubble_sort(arr,mode):
@@ -33,6 +33,14 @@ def selection_sort(arr):
             arr[i],arr[mark]=arr[mark],arr[i]
     return arr
 
+# 2.对圆进行n等分
+# 实现思路：找规律，注意边界情况，例如划分为1等分的时候
+def split_circle(n):
+    if n==1:
+        return 0
+    if n%2==0:
+        return n//2
+    return n
 
         
 if __name__=="__main__":

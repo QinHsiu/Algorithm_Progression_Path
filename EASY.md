@@ -1,1 +1,2 @@
 - 1.使用编程语言实现冒泡排序
+- 2.实现圆的等同划分[力扣2481](https://leetcode.cn/problems/minimum-cuts-to-divide-a-circle/)
