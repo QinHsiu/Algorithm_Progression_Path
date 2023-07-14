@@ -1,3 +1,5 @@
+- 查分数组
+    - [查分数组](https://mp.weixin.qq.com/s/T-3QGCgNL7nXfo_vvnM-FQ)
 - 动态规划
     - 最长数对链[力扣646](https://leetcode.cn/problems/maximum-length-of-pair-chain/)
     - 最长定差子序列[力扣1218](https://leetcode.cn/problems/longest-arithmetic-subsequence-of-given-difference/description/)
